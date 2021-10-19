@@ -9,7 +9,7 @@
 	};
 </script>
 
-<nav id="navbar" class="bg-gray-900">
+<nav id="navbar" class="bg-gray-900" data-aos="fade">
 	<div
 		class="container mx-auto flex items-center justify-between md:justify-start py-8 mb-8 px-8 md:px-0"
 	>

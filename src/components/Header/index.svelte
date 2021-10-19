@@ -40,6 +40,12 @@
 							<p class="text-sm">ou</p>
 							<button
 								class="flex gap-3 items-center w-full md:w-auto justify-center bg-gray-800 font-semibold rounded-lg px-6 py-3 hover:bg-gray-700"
+								on:click={() => {
+									window.scrollTo({
+										top: document.getElementById('projects').offsetTop,
+										behavior: 'smooth'
+									});
+								}}
 							>
 								Saiba mais
 							</button>
