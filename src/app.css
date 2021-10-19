@@ -1,0 +1,21 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Inter', sans-serif;
+	@apply bg-gray-900;
+	@apply text-white;
+	@apply font-medium;
+}
+
+.container {
+	max-width: 1200px;
+}

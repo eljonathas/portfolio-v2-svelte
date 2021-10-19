@@ -1,0 +1,33 @@
+.image-logo {
+	width: 110px;
+}
+
+.header-navbar ul li {
+	transition: all 0.3s ease;
+}
+
+.profile-image-wrapper {
+	max-width: 450px;
+}
+
+.profile-image-wrapper img {
+	border-radius: inherit;
+}
+
+.buttons-wrapper button,
+.buttons-wrapper a {
+	transition: all 0.3s ease;
+}
+
+.buttons-wrapper button:active {
+	filter: brightness(0.8);
+}
+
+.tools-image img {
+	user-select: none;
+	-webkit-user-drag: none;
+	max-width: 180px;
+	max-height: 60px;
+	object-fit: contain;
+	filter: invert(24%) sepia(9%) saturate(1508%) hue-rotate(178deg) brightness(90%) contrast(87%);
+}
