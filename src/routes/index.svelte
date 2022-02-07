@@ -40,6 +40,25 @@
 						<div class="project-card-image">
 							<a
 								class="ease-linear hover:brightness-75"
+								href="https://burnout.jandrade.dev/"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<img
+									src="/images/burnout.png"
+									alt="Burnout website"
+									class="rounded-lg object-cover h-40 w-full"
+								/>
+							</a>
+						</div>
+						<div class="project-card-description flex flex-col">
+							<h2 class="font-semibold">Burnout nas Empresas</h2>
+						</div>
+					</div>
+					<div class="project-card flex flex-col gap-4" data-aos="fade">
+						<div class="project-card-image">
+							<a
+								class="ease-linear hover:brightness-75"
 								href="https://devspaidegua.com/"
 								target="_blank"
 								rel="noopener noreferrer"
@@ -72,25 +91,6 @@
 						</div>
 						<div class="project-card-description flex flex-col">
 							<h2 class="font-semibold">Cryptowl</h2>
-						</div>
-					</div>
-					<div class="project-card flex flex-col gap-4" data-aos="fade">
-						<div class="project-card-image">
-							<a
-								class="ease-linear hover:brightness-75"
-								href="https://portfy.jandrade.dev/"
-								target="_blank"
-								rel="noopener noreferrer"
-							>
-								<img
-									src="/images/portfy.png"
-									alt="Portfy"
-									class="rounded-lg object-cover h-40 w-full"
-								/>
-							</a>
-						</div>
-						<div class="project-card-description flex flex-col">
-							<h2 class="font-semibold">Portfy</h2>
 						</div>
 					</div>
 					<div class="project-card flex flex-col gap-4" data-aos="fade">
